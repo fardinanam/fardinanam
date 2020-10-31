@@ -40,4 +40,4 @@
 <br />
 <br />
 <img align="left" alt="fardinanam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&hide_border=true&count_private=true&bg_color=33,#0f2027,#203A43,#2C5364" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
