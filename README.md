@@ -39,9 +39,5 @@
 
 <br />
 <br />
-
-  GitHub Stats
-
-  <img align="left" alt="fardinanam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&hide_border=true&count_private=true&bg_color=to right,#0f2027,#203A43,#2C5364" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact)
-  <!-- ![fardinanam's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact) -->
+<img align="left" alt="fardinanam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&hide_border=true&count_private=true&bg_color=33,#0f2027,#203A43,#2C5364" />
+![fardinanam's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact)
