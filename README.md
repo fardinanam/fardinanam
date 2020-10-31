@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
----
 [<img align="left" alt="fardinanam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fardinanam.github.io/)
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FAungon)
@@ -16,7 +15,6 @@
 <br />
 
 ## Languages
----
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -26,7 +24,6 @@
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
 ## Tools:
----
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
@@ -34,8 +31,8 @@
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
 <br />
-<br />
-##Github Overview
+
+## Github Overview:
 ---
 ![fardinanam's github stat](https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true)
 ![fardinanam's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact)
