@@ -33,5 +33,5 @@
 <br />
 
 ## Github Overview:
-![fardinanam's github stat](https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&bg_color=#0F2027, #203A43, #2C5364)
-![fardinanam's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact@langs_count=10)
+![fardinanam's github stat](https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&bg_color=20,#0F2027, #203A43, #2C5364)
+![fardinanam's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact&langs_count=10)
