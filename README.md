@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
-
+---
 [<img align="left" alt="fardinanam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fardinanam.github.io/)
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FAungon)
@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-
+---
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
@@ -40,4 +40,4 @@
 <br />
 <br />
 <img align="left" alt="fardinanam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&hide_border=true&count_private=true&bg_color=33,#0f2027,#203A43,#2C5364" />
-![fardinanam's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam)
