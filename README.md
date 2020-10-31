@@ -15,7 +15,7 @@
 <br />
 
 ## Languages
-![c](http://img.shields.io/badge/-c-000000?style=flat&logo=c)
+![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 <!-- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) -->
@@ -23,12 +23,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
