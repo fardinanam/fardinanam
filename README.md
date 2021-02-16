@@ -25,6 +25,10 @@
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
+## Frameworks
+![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![jQuery](https://img.shields.io/badge/-JQUERY-000000?style=flat&logo=jQuery)
+
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
