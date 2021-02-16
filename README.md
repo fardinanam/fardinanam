@@ -27,7 +27,7 @@
 
 ## Frameworks
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![jQuery](https://img.shields.io/badge/-JQUERY-000000?style=flat&logo=jQuery)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
