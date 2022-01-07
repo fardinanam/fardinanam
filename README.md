@@ -23,6 +23,7 @@
 ## Frameworks
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 
 ## Tools:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
