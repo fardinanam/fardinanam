@@ -10,6 +10,7 @@
 <br />
 
 ## Languages
+![ASM](https://img.shields.io/badge/-ASM-000000?style=flat&logo)
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -17,10 +18,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![MYSQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
-## Frameworks
+## Libraries and Frameworks
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
@@ -35,6 +36,10 @@
 
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
+
+![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
+
+![Flex](https://img.shields.io/badge/-flex-000000?style=flat&logo=flex)
 
 <br />
 
