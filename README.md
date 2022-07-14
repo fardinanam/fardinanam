@@ -44,7 +44,6 @@
 <br />
 
 ## Github Overview:
-![fardinanam's github stat](https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&count_private=true&bg_color=180deg,#0F2027,#2C5364) 
-<!-- &bg_color=to right,#0F2027, #203A43, #2C5364 -->
-![fardinanam's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=6&layout=compact)
-[![fardinanam's gitHub streak](http://github-readme-streak-stats.herokuapp.com?user=fardinanam)](https://git.io/streak-stats)
+![fardinanam's github stat](https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&count_private=true&theme=dark)
+[![fardinanam's gitHub streak](http://github-readme-streak-stats.herokuapp.com?user=fardinanam&theme=dark)](https://git.io/streak-stats)
+![fardinanam's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=6&layout=compact&theme=dark)
