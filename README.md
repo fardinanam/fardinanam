@@ -45,13 +45,13 @@
 
 <p align="center">
 <a href="https://github.com/fardinanam">
-<img alt="fardinanam's github stat" height="200px" width="450px" border="none" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&count_private=true&theme=dark" /> fardinanam's github stat </a>
+<img alt="fardinanam's github stat" height="200px" width="450px" border="none" src="https://github-readme-stats.vercel.app/api?username=fardinanam&show_icons=true&count_private=true&theme=dark" /> </a>
 </p>
 <p align="center">
 <a align="left" href="https://github.com/fardinanam">
-<img alt="fardinanam's gitHub streak" height="180px" width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=fardinanam&theme=dark" /> fardinanam's gitHub streak </a>
+<img alt="fardinanam's gitHub streak" height="180px" width="450px" src="http://github-readme-streak-stats.herokuapp.com?user=fardinanam&theme=dark" /> </a>
 </p>
 <p align="center">
 <a href="https://github.com/fardinanam">
-<img alt="fardinanam's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=10&layout=compact&theme=dark&hide=html,css" /> fardinanam's github languages </a>
+<img alt="fardinanam's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=10&layout=compact&theme=dark&hide=html,css" /></a>
 </p>
