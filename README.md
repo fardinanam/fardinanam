@@ -55,5 +55,5 @@
 </p>
 <p align="center">
 <a href="https://github.com/fardinanam">
-<img alt="fardinanam's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=10&layout=compact&theme=dark&hide=html,css,sh,bash" /></a>
+<img alt="fardinanam's github languages" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinanam&langs_count=10&layout=compact&theme=dark&hide=html,css,shell,batchfile" /></a>
 </p>
