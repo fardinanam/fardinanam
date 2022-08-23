@@ -40,6 +40,7 @@
 ![LaTeX](https://img.shields.io/badge/-latex-000000?style=flat&logo=latex)
 
 ![Flex](https://img.shields.io/badge/-flex-000000?style=flat&logo=flex)
+![Bison](https://img.shields.io/badge/-bison-000000?style=flat&logo=bison)
 
 <br />
 
