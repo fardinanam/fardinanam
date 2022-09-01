@@ -1,6 +1,10 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
+🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technologies (BUET)**
 
-### Connect with me:
+## Academics
+✍ Check out my **academics** [here](https://github.com/fardinanam/My-Academics).
+
+## Connect with me:
 [<img align="left" alt="fardinanam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fardinanam.github.io/)
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FAungon)
