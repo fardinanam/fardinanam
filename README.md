@@ -1,10 +1,5 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
 
-## Academics
-🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
-
-✍ Check out my **academic repositories** from [here](https://github.com/fardinanam/My-Academics).
-
 ## Connect with me:
 [<img align="left" alt="fardinanam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://fardinanam.github.io/)
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -14,7 +9,13 @@
 
 <br />
 
-## Languages
+
+## Academics:
+🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
+
+✍ Check out my **academic repositories** from [here](https://github.com/fardinanam/My-Academics).
+
+## Languages:
 ![ASM](https://img.shields.io/badge/-ASM-000000?style=flat&logo)
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -26,7 +27,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 
-## Libraries and Frameworks
+## Libraries and Frameworks:
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
