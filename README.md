@@ -1,5 +1,5 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
-🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technologies (BUET)**
+🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
 
 ## Academics
 ✍ Check out my **academics** [here](https://github.com/fardinanam/My-Academics).
