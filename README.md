@@ -13,7 +13,7 @@
 ✍ Check out my **academic repositories** [here](https://github.com/fardinanam/My-Academics)
 
 ## Works:
-🔭 I’m currently working on a research based project named EWS-RE under IWFM, BUET. Check out the website [here](https://early-warning-river-erosion.netlify.app/)
+🔭 Currently developing a website for a research based project named **EWS-RE (Early Warning System for River Erosion)** under IWFM, BUET. Check out the website [here](https://early-warning-river-erosion.netlify.app/)
 
 ## Languages:
 <!-- ![ASM](https://img.shields.io/badge/-ASM-000000?style=flat&logo) -->
