@@ -1,6 +1,7 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
 
-🎓 Currently studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
+🎓 Studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
+💼 Junior Software Engineer at Pridesys IT LTD.
 
 ## Connect with me
 <a href="https://linkedin.com/in/fardin-anam-aungon-3b754713b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-anam-aungon-3b754713b" height="30" width="40" /></a>
@@ -14,7 +15,7 @@
 
 ## Works
 - Junior Software Engineer at Pridesys IT Ltd. (Nov 2023 - Present)
-- Also eveloping a website for a research based project named **EWS-RE (Early Warning System for River Erosion)** under IWFM, BUET. <!-- Check out the website [here](https://early-warning-river-erosion.netlify.app/) -->
+- Also developing a website for a research based project named **EWS-RE (Early Warning System for River Erosion)** under IWFM, BUET. <!-- Check out the website [here](https://early-warning-river-erosion.netlify.app/) -->
 
 ## Languages
 <!-- ![ASM](https://img.shields.io/badge/-ASM-000000?style=flat&logo) -->
@@ -35,9 +36,12 @@
 
 ## Libraries and Frameworks
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" targer="_blank" rel="noreffered"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://jquery.com/" targer="_blank" rel="noreffered"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> </a>
+<a href="https://jquery.com/" targer="_blank" rel="noreffered"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
+
+          
 
 ## Game Development
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
