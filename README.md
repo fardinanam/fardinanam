@@ -1,6 +1,7 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
 
 🎓 Studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
+
 💼 Junior Software Engineer at Pridesys IT LTD.
 
 ## Connect with me
