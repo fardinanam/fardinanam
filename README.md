@@ -1,8 +1,8 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
 
-🎓 Studying **Computer Science and Engineering (CSE)** at **Bangladesh University of Engineering and Technology (BUET)**
+🎓 **B.Sc.** in **Computer Science and Engineering (CSE)** from **Bangladesh University of Engineering and Technology (BUET)** 
 
-💼 Software Engineer at Pridesys IT LTD.
+💼 **Software Engineer II** at **Pridesys IT LTD.**
 
 ## Connect with me
 <a href="https://linkedin.com/in/fardin-anam-aungon-3b754713b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-anam-aungon-3b754713b" height="30" width="40" /></a>
@@ -45,9 +45,12 @@
 <a href="https://pytorch.org/?ref=ai-infra-link.com" target="blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </a>
+<a href="https://tailwindcss.com/" target="blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com" target="blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="django" width="40" height="40"/>
-  </a>
+</a>
 <a href="https://jquery.com/" targer="blank" rel="noreffered"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
           
 
@@ -61,6 +64,9 @@
 <a href="https://www.docker.com/" target="blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
+<a href="https://kubernetes.io/" target="blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
+</a>     
 <a href="https://www.adobe.com/in/products/illustrator.html" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a>
