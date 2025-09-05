@@ -1,8 +1,9 @@
 ### Hi there, I'm Fardin Anam Aungon 👋
+🎓 Currently pursuing my **MS** in **Computer Science** from **Rochester Institute of Technology (RIT)**
 
-🎓 **B.Sc.** in **Computer Science and Engineering (CSE)** from **Bangladesh University of Engineering and Technology (BUET)** 
+🎓 **B.Sc.** in **Computer Science and Engineering (CSE)** from **Bangladesh University of Engineering and Technology (BUET)**
 
-💼 **Software Engineer II** at **Pridesys IT LTD.**
+💼 Former **Software Engineer II** at **Pridesys IT Ltd.**
 
 ## Connect with me
 <a href="https://linkedin.com/in/fardin-anam-aungon-3b754713b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-anam-aungon-3b754713b" height="30" width="40" /></a>
@@ -15,8 +16,8 @@
 ✍ Check out my **academic repositories** [here](https://github.com/fardinanam/My-Academics)
 
 ## Works
-- Software Engineer at Pridesys IT Ltd. (Nov 2023 - Present)
-- Developing a website for a research based project named **EWS-RE (Early Warning System for River Erosion)** under IWFM, BUET. <!-- Check out the website [here](https://early-warning-river-erosion.netlify.app/) -->
+- Software Engineer at Pridesys IT Ltd. (Nov 2023 - July 2025)
+- Developed a website for a research based project named **EWS-RE (Early Warning System for River Erosion)** under IWFM, BUET. <!-- Check out the website [here](https://early-warning-river-erosion.netlify.app/) -->
 
 ## Languages
 <!-- ![ASM](https://img.shields.io/badge/-ASM-000000?style=flat&logo) -->
