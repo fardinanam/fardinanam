@@ -3,7 +3,7 @@
 
 🎓 **B.Sc.** in **Computer Science and Engineering (CSE)** from **Bangladesh University of Engineering and Technology (BUET)**
 
-💼 Former **Software Engineer II** at **Pridesys IT Ltd.**
+💼 Former **Software Engineer** at **Pridesys IT Ltd.**
 
 ## Connect with me
 <a href="https://linkedin.com/in/fardin-anam-aungon-3b754713b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-anam-aungon-3b754713b" height="30" width="40" /></a>
